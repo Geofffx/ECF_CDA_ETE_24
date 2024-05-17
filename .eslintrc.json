@@ -1,0 +1,15 @@
+{
+  "extends": "next/core-web-vitals",
+  "printWidth": 100,
+  "semi": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+ }
+}
